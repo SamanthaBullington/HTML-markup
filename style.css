@@ -1,0 +1,77 @@
+.d-flex {
+  display: flex;
+}
+
+.justify-content-between {
+  justify-content: space-between;
+}
+
+
+.small-text{
+  font-size:x-small;
+}
+
+h2 {
+  text-align: center;
+}
+
+
+
+header{
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0em 1em 10em 1em;
+  text-align: center;
+  height: 50px;
+  background-color: darkblue;
+  color: white;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+main{
+  text-align: left;
+  margin-left: 5em;
+  padding:2em;
+  align-content: center;
+  
+}
+
+.blue-box {
+width: 60vw;
+height: 3vh;
+background-color: lightblue;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+footer{
+  height: 50px;
+  background-color: darkblue;
+  position: absolute;
+  bottom:0;
+  width:100%;
+}
+
+aside {
+  padding-right: 1em 1em;
+
+}
+
+section{
+  padding: 0px 3em;
+}
+
+.text-column {
+width: 70%;
+align-content: center;
+
+}
+
+.kitty-column {
+  width: 30%;
+}
+
+
